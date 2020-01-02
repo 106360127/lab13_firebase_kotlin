@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "911240635702",
+    "firebase_url": "https://firemessage-84e44.firebaseio.com",
+    "project_id": "firemessage-84e44",
+    "storage_bucket": "firemessage-84e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911240635702:android:adcdbda6ba571f7386ff97",
+        "android_client_info": {
+          "package_name": "com.example.firemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911240635702-dtbr408rdddnknee1cv3qh3859dh4gd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firemessage",
+            "certificate_hash": "1934f1a0bd4832c31a32d7f9e4c1a3293f4536b1"
+          }
+        },
+        {
+          "client_id": "911240635702-vkg52aor7k818nn8pjg2buncv2ptdc73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADGdDR8PICNnnBGA614aR0a4g2uWUjYr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911240635702-vkg52aor7k818nn8pjg2buncv2ptdc73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
